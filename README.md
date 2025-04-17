@@ -1,8 +1,6 @@
 # Hi 👋, I'm Copofe
 
-### Professional Developer, Like Design, Also Gamer
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/shinji_zl?logo=twitter&style=for-the-badge)](https://twitter.com/shinji_zl)
+> Professional Developer, Like Design, Also Gamer
 
 ### Connect with me:
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinji_zl" height="30" width="40" />](https://twitter.com/shinji_zl)
